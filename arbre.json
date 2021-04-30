@@ -1,0 +1,21 @@
+{
+    "no": {
+        "no": {
+            "no": "aigle",
+            "question": "Votre animal possede t'il des ecailles ?",
+            "yes": "poisson"
+        },
+        "question": "Est-il un reptile ?",
+        "yes": "serpent"
+    },
+    "question": "Votre animal est-il un mammifere ?",
+    "yes": {
+        "no": "humain",
+        "question": "Votre animal marche t'il a 4 pattes ?",
+        "yes": {
+            "no": "chien",
+            "question": "votre animal vit-il en afrique ?",
+            "yes": "elephant"
+        }
+    }
+}
